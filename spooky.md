@@ -1,0 +1,2 @@
+# BOO
+![](ghost.jpg)

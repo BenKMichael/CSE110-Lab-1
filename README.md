@@ -1,1 +1,1 @@
-Ben's User Page
+C++ is probably the most fun I've had with a programming language. Learned a lot. Pythons cool too. Java pisses me off.

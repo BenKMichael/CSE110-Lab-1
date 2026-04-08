@@ -1,4 +1,4 @@
-# :zap:Benjamin Michael:zap:
+# ⚡Benjamin Michael⚡
 <img src="image.jpg" width="500">
 
 ## Who Am I?

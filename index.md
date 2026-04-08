@@ -34,7 +34,7 @@ I'm also participating in ESRP (Early Scholars Research Program) here at UCSD an
 
 ### Hey sorry man, can you tell me your name again?
 
-No problemo, here you [go](#zapbenjamin-michaelzap)
+No problemo, here you [go](#benjamin-michael)
 
 ### Thanks, any chance you could write a fib program for me, since you're an expert? 
 
